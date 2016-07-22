@@ -1,0 +1,25 @@
+.a {
+	background-color: #0048FB;
+	width: 200px;
+	height: 200px;
+}
+.b {
+	background-color: #387804;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 50px;
+	top: 50px;
+}
+.c {
+	background-color: #000000;
+	width: 50px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	}
+body{
+	padding: 0px;
+	margin: 0px;
+}
